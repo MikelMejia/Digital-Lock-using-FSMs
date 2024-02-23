@@ -1,1 +1,1 @@
-![alt text](https://github.com/MikelMejia/Digital-Lock_using-FSMs-on-Zybo-Z710/blob/main/Digital Lock FSM diagram.png?raw=true)
+![Digital Lock FSM diagram](https://github.com/MikelMejia/Digital-Lock-using-FSMs-on-Zybo-Z710/assets/112528572/4194899b-b61a-43e9-b7a5-51309865eead)
